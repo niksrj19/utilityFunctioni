@@ -1,2 +1,0 @@
-# utilityFunctioni
-Created with CodeSandbox
